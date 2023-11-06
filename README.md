@@ -25,3 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erendagstan&show_icons=true&locale=en&layout=compact" alt="erendagstan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erendagstan&show_icons=true&locale=en" alt="erendagstan" /></p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
